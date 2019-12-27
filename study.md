@@ -1,7 +1,6 @@
 #css - grid 学习记录
-##容器设置(container) 
-*	display:grid;  
->行/列宽度设置
+##容器设置(container)  
+*	>行/列宽度设置
 			grid-template-columns: 100px 30% 1fr;
 			grid-template-rows: 50px 100px 50px 100px; 
 			grid-template-rows: repeat(2,50px 100px); 
